@@ -1,7 +1,7 @@
 import os, time, string, random
 
 path = os.getcwd() + "/"
-s_path = os.getcwd() + "/" + "_internal" + "/"
+s_path = os.getcwd() + "/" + "_internal" + "/" + "spezial" + "/"
 
 os.system("cls")
 os.system("color 7")
