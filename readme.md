@@ -45,7 +45,7 @@ That means that Wizard-Console has a lot of self-made commands like the matrix o
 The Python-AutoImport is a tool that will filter all python files the diretory and if they are empty Python-AutoImport will add the most important imports to these files.  
 
 > ```py
-> autoimport(Director)
+> autoimport(Directory)
 > ```
 
 You can use this tool to code **faster** and **better**...  
